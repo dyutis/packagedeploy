@@ -1,0 +1,1 @@
+select TO_CHAR(SYSTIMESTAMP,'DD-MM-YYYY HH:MI:SS') from dual;

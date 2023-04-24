@@ -1,0 +1,1 @@
+select TO_CHAR(sysdate,'DD-MM-YYYY') from dual;
