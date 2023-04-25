@@ -5,7 +5,7 @@ public class goodbye
 {
   public goodbye(String msg)
   {
-    System.out.println("Outcome is : " + msg);
+    System.out.println("Outcome is :: " + msg);
   }
 
   public static void main(String[] args)
